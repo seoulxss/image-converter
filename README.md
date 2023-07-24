@@ -8,4 +8,5 @@ This is a image converter to convert .png files into .jpg
 <p> I've coded this to learn more about the Windows-API and get a bit more familiar with DirectX.</p>
 <p> Keep in mind, that this is not the best code. I'm still learning and trying my best.</p>
 
-<h1></h1>
+<h1>Notes </h1>
+<p> I've also followed a tutorial from a youtube series to get the directX stuff working.</p>

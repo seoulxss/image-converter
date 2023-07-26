@@ -10,3 +10,4 @@ This is a image converter to convert .png files into .jpg
 
 <h1>Notes </h1>
 <p> I've also followed a tutorial from a youtube series to get the directX stuff working.</p>
+<p> The program is also powered by <b> ImGui </b> and <b> ImageMagick </b> ! </p>

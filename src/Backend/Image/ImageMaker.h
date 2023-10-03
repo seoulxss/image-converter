@@ -22,6 +22,8 @@
 
 #include "..\..\Settings.h"
 
+
+// This is just horrible, don't look at it xD.
 class ImageMaker
 {
 

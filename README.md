@@ -1,6 +1,6 @@
 # image-converter
 <b> THIS CONVERTER IS NO LONGER MAINTAINED AND WAS ONLY CODED FOR LEARNING PURPOSES </b>
-This is a image converter to convert .png files into .jpg
+<p> This is a image converter to convert .png files into .jpg </p>
 
 <h1> How to use this? </h1>
 <p> Just run the .exe and select your settings in the "settings" tab. Then go to convert and select a path. Now you can convert your files! :)</p>

@@ -1,4 +1,5 @@
 # image-converter
+<b> THIS CONVERTER IS NO LONGER MAINTAINED AND WAS ONLY CODED FOR LEARNING PURPOSES </b>
 This is a image converter to convert .png files into .jpg
 
 <h1> How to use this? </h1>
